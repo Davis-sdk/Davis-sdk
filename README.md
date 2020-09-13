@@ -1,11 +1,9 @@
-### Hi there, I'm David - aka [Davis-sdk][website] 👋
+### Hi there, I'm David - aka [Davis-sdk]👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Android Developer and I'm passionate about technology!
 
-- 🔨 I’m currently bulding store like Google Play but for moded applications [VS Code Course][website]!
+- 🔨 I’m currently bulding store like Google Play but for moded applications
 - 📘 I’m currently learning play the piano
 - 🤠 I’m looking for new challenges in Android
 - 🏆 2020 Goals: Learn Kotlin & Swift
