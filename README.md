@@ -50,7 +50,7 @@
 
 
 ---
-![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davis-sdk&count_private=true&show_icons=true&hide_border=true&hide=prs&hide=issues)
+![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davis-sdk&count_private=true&hide=prs&hide=issues)
 ---
 
 
