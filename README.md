@@ -50,12 +50,10 @@
 
 
 ---
-<details>
-  <summary>:zap: Github Stats</summary>
+![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davis-sdk&count_private=true&show_icons=true&hide_border=true&hide=prs&hide=issues)
+---
 
-  <img align="left" alt="Davis-sdk Github Stats" src="https://github-readme-stats.vercel.app/api?username=Davis-sdk&count_private=true&show_icons=true&hide_border=true&hide=prs&hide=issues" />
 
-</details>
 
 [instagram]: https://instagram.com/temoruki
 [linkedin]: https://www.linkedin.com/in/davis-sdk/
