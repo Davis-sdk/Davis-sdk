@@ -48,11 +48,11 @@
 <br />
 
 
+---
 
+![Davis's github stats](https://github-readme-stats.vercel.app/api?username=davis-sdk&count_private=true&hide=prs)
 
-![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davis-sdk&count_private=true&hide=prs&hide=issues)
-
-
+---
 
 
 [instagram]: https://instagram.com/temoruki
