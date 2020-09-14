@@ -3,9 +3,9 @@
 
 ## I'm a Android Developer and I'm passionate about technology!
 
-- 🔨 I’m currently bulding store like Google Play but for moded applications
-- 📘 I’m currently learning play the piano
-- 🤠 I’m looking for new challenges in Android
+- 🔨 I’m currently building an app store for tweaked Android apps
+- 📘 I’m currently learning to play the piano
+- 🤠 I’m looking for new challenges -> Android
 - 🏆 2020 Goals: Learn Kotlin & Swift
 
 ### Connect with me:
