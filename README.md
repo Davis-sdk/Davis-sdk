@@ -39,6 +39,8 @@
 <img align="left" alt="Pycharm" width="26px" src="https://avatars0.githubusercontent.com/u/878437?s=200&v=4" />
 <img align="left" alt="Intellij" width="26px" src="https://avatars0.githubusercontent.com/u/878437?s=200&v=4" />
 <img align="left" alt="Android Studio" width="26px" src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" />
+<img align="left" alt="Heroku" width="26px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />
+<img align="left" alt="Stripe" width="26px" src="https://avatars3.githubusercontent.com/u/856813?s=200&v=4" />
 
 
 
