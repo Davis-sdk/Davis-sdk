@@ -3,10 +3,9 @@
 
 ## I'm a Android Developer and I'm passionate about technology!
 
-- 🔨 I’m currently building an app store for tweaked Android apps
-- 📘 I’m currently learning to play the piano
-- 🤠 I’m looking for new challenges -> Android
-- 🏆 2020 Goals: Learn Kotlin & Swift
+- 🔨 I’m currently building cross platform games
+- 🤠 I’m looking for new challenges -> Apple
+- 🏆 2024 Goals: Learn  Swift
 
 ### Connect with me:
 
