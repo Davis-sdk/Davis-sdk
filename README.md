@@ -42,9 +42,6 @@
 <img align="left" alt="Stripe" width="26px" src="https://avatars3.githubusercontent.com/u/856813?s=200&v=4" />
 
 
-
-
-
 <br />
 <br />
 
