@@ -55,7 +55,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davis-sdk&layout=compact)](https://github.com/davis-sdk/github-readme-stats)
 
 ---
-
-[instagram]: https://instagram.com/temoruki
 [linkedin]: https://www.linkedin.com/in/davis-sdk/
 
