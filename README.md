@@ -55,6 +55,4 @@ I'm a passionate technologist specializing in Android development with a growing
 
 ### GitHub Statistics
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davis-sdk&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&PAT_1=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)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davis-sdk&layout=compact&theme=transparent&count_private=true&hide_border=true&langs_count=8&PAT_1=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)](https://github.com/davis-sdk/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davis-sdk&layout=compact&theme=transparent&count_private=true&hide_border=true&langs_count=8)](https://github.com/davis-sdk/github-readme-stats)
